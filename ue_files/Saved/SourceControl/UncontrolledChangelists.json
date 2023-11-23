@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Projects/GD/2023GameOff_Scaler/ue_files/Content/Levels/Level1.umap",
+				"E:/Projects/GD/2023GameOff_Scaler/ue_files/Content/Blueprints/BP_Interaction_Destroy.uasset",
+				"E:/Projects/GD/2023GameOff_Scaler/ue_files/Content/Levels/Level2.umap",
 				"E:/Projects/GD/2023_gameoff/GameOff2023/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Projects/GD/2023_gameoff/GameOff2023/Content/FirstPerson/Input/IMC_Default.uasset",
 				"E:/Projects/GD/2023_gameoff/GameOff2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
